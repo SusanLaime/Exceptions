@@ -16,9 +16,6 @@ public class Screen {
 			System.out.println(e.getMessage());
 		}
 		char var='a';
-		System.out.println(var);
-		
-		
-		
+		System.out.println(var);		
 	}
 }
